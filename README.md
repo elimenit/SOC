@@ -39,3 +39,12 @@ Un SOC monitoriza, detecta, analiza y responde a incidentes criticos en tiempo r
 - ***Certificaciones Valoradas***: CISSP, CEH, y GCIA son altamenes valoradas.
 
 - ***Formacion Continua***: Esta claro adaptarse al cambio para enfrentarse a nuevas amenzas.
+
+## Tecnologia y Herramientas
+SIEM para la correlacion de eventos, SOAR para automatizacion y EDR para proteccion de Endpoints.
+
+- ***Criterios de Seleccion***: Las herramientas deben seleccionarse considerando escalabilidad, integracon, facilidad de uso y analisis avanzado.
+
+### Fuentes
+[Cisco Networking Academy](netacad.com)
+[Splunk](education.splunk.com)
